@@ -1,2 +1,12 @@
 nombre. adm
 clave. Alejandro
+
+// Proyecto Final Galeria fotografica
+// Nombre: Jefferson Fiorilo Chavarria
+// Materia: Desarrollo de sistemas 1
+// Docente: David Serrudo Terrazas
+
+// Squey SQL
+// ejecutable
+// backup
+//https://github.com/jeffersonLinx/Galeria_FotograficaNet
