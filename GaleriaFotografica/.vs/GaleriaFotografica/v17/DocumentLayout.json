@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\33.-DESARROLLO DE SISTEMAS SEM-5 MAteria 33\\proyecto final\\GaleriaFotografica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7F0649-C74E-4FDD-8189-10F2CCB5F353}|GaleriaFotografica\\GaleriaFotografica.csproj|c:\\users\\hp\\downloads\\33.-desarrollo de sistemas sem-5 materia 33\\proyecto final\\galeriafotografica\\galeriafotografica\\proyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7F0649-C74E-4FDD-8189-10F2CCB5F353}|GaleriaFotografica\\GaleriaFotografica.csproj|solutionrelative:galeriafotografica\\proyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7F0649-C74E-4FDD-8189-10F2CCB5F353}|GaleriaFotografica\\GaleriaFotografica.csproj|c:\\users\\hp\\downloads\\33.-desarrollo de sistemas sem-5 materia 33\\proyecto final\\galeriafotografica\\galeriafotografica\\proyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC7F0649-C74E-4FDD-8189-10F2CCB5F353}|GaleriaFotografica\\GaleriaFotografica.csproj|solutionrelative:galeriafotografica\\proyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proyectos.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\33.-DESARROLLO DE SISTEMAS SEM-5 MAteria 33\\proyecto final\\GaleriaFotografica\\GaleriaFotografica\\Proyectos.cs",
+              "RelativeDocumentMoniker": "GaleriaFotografica\\Proyectos.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\33.-DESARROLLO DE SISTEMAS SEM-5 MAteria 33\\proyecto final\\GaleriaFotografica\\GaleriaFotografica\\Proyectos.cs",
+              "RelativeToolTip": "GaleriaFotografica\\Proyectos.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAAKAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T23:21:48.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proyectos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\33.-DESARROLLO DE SISTEMAS SEM-5 MAteria 33\\proyecto final\\GaleriaFotografica\\GaleriaFotografica\\Proyectos.cs",
+              "RelativeDocumentMoniker": "GaleriaFotografica\\Proyectos.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\33.-DESARROLLO DE SISTEMAS SEM-5 MAteria 33\\proyecto final\\GaleriaFotografica\\GaleriaFotografica\\Proyectos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GaleriaFotografica\\Proyectos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T23:21:43.031Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
